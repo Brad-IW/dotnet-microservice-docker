@@ -1,0 +1,11 @@
+C:\Dev\DotNet\HelloAPI\HelloAPI\obj\Docker\publish\HelloAPI.exe
+C:\Dev\DotNet\HelloAPI\HelloAPI\obj\Docker\publish\appsettings.Development.json
+C:\Dev\DotNet\HelloAPI\HelloAPI\obj\Docker\publish\appsettings.json
+C:\Dev\DotNet\HelloAPI\HelloAPI\obj\Docker\publish\HelloAPI.dll
+C:\Dev\DotNet\HelloAPI\HelloAPI\obj\Docker\publish\HelloAPI.deps.json
+C:\Dev\DotNet\HelloAPI\HelloAPI\obj\Docker\publish\HelloAPI.runtimeconfig.json
+C:\Dev\DotNet\HelloAPI\HelloAPI\obj\Docker\publish\HelloAPI.pdb
+C:\Dev\DotNet\HelloAPI\HelloAPI\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Dev\DotNet\HelloAPI\HelloAPI\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\DotNet\HelloAPI\HelloAPI\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\DotNet\HelloAPI\HelloAPI\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
