@@ -1,0 +1,6 @@
+version: '3.9'
+services:
+  dotnet-microservice:
+    ports:
+      - "5000:80"
+    image: bradiw/helloapi:latest
